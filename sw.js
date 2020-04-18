@@ -4,7 +4,7 @@ var filesToCache = [
   '/RedditTTSGenerator/index.html',
   '/RedditTTSGenerator/css/style.css',
   '/RedditTTSGenerator/js/reddittts.js',
-  '/RedditTTSGenerator/css/404.css''
+  '/RedditTTSGenerator/css/404.css'
   '/RedditTTSGenerator/404.html'    
 ];
 
