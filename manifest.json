@@ -3,32 +3,32 @@
   "name": "Reddit Text-To-Speech Generator",
   "short_name": "RedditTTS",
   "icons": [{
-    "src": "/RedditTTSGeneratorimages/reddit%20(5).png",
+    "src": "/RedditTTSGenerator/images/reddit%20(5).png",
       "sizes": "128x128",
       "type": "image/png"
     }, {
-      "src": "/RedditTTSGeneratorimages/reddit%20(4).png",
+      "src": "/RedditTTSGenerator/images/reddit%20(4).png",
       "sizes": "144x144",
       "type": "image/png"
     }, {
-      "src": "/RedditTTSGeneratorimages/reddit%20(3).png",
+      "src": "/RedditTTSGenerator/images/reddit%20(3).png",
       "sizes": "152x152",
       "type": "image/png"
     }, {
-      "src": "/RedditTTSGeneratorimages/reddit%20(2).png",
+      "src": "/RedditTTSGenerator/images/reddit%20(2).png",
       "sizes": "192x192",
       "type": "image/png"
     }, {
-      "src": "/RedditTTSGeneratorimages/reddit%20(1).png",
+      "src": "/RedditTTSGenerator/images/reddit%20(1).png",
       "sizes": "256x256",
       "type": "image/png"
     }, {
-      "src": "/RedditTTSGeneratorimages/reddit%20(6).png",
+      "src": "/RedditTTSGenerator/images/reddit%20(6).png",
       "sizes": "512x512",
       "type": "image/png"
     }],
   "lang": "en-US",
-  "start_url": "/index.html",
+  "start_url": "/RedditTTSGenerator/index.html",
   "display": "standalone",
   "background_color": "green",
   "theme_color": "green"
