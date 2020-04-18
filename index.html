@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />  
+    <meta name="apple-mobile-web-app-capable" content="yes">  
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"> 
+    <meta name="apple-mobile-web-app-title" content="Reddit TTS Generator"> 
+    <meta name="msapplication-TileImage" content="/RedditTTSGenerator/images/reddit%20(3).png">  
+    <meta name="msapplication-TileColor" content="#00FF00">
+    <link rel="canonical" href=""/>
+    <link rel="apple-touch-icon" href="/RedditTTSGenerator/images/reddit%20(2).png">
+    <link rel="manifest" href="/RedditTTSGenerator/manifest.json">
+    <meta name="theme-color" content="green"/>
+    <meta charset="utf-8">
+    <title>Reddit Text-To-Speech Generator</title>
+    <link rel="stylesheet" href="/RedditTTSGenerator/css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+  <body class="fullscreen">
+    <div id="menu" class="textOnly">
+      <h1>Reddit Text-to-Speech Generator</h1>
+      <h3>Why make good YouTube content when you can just put text-to-speech over reddit content?</h3>
+      <p>Enter a subreddit name below</p>
+      <input id="subreddit" type="text" name="" value="" placeholder="eg. memes">
+      <button id="start" type="button" name="button">Generate</button>
+    </div>
+    <div id="redditcontent" class="textOnly">
+      <h1 id="redditText"></h1>
+      <h5 id="redditUser"></h5>
+      <div id="imgCont">
+      </div>
+    </div>
+    <h4 id="contentcredit"></h4>
+  </body>
+  <script src="/RedditTTSGenerator/js/reddittts.js" charset="utf-8"></script>
+</html>
