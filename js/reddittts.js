@@ -3,7 +3,7 @@ window.onload = () => {
 
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker
-             .register('/RedditTTSGenerator/sw.js');
+             .register('/RedditTTS/sw.js');
   }
 }
 var voices = speechSynthesis.getVoices();
