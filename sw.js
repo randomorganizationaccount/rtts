@@ -1,9 +1,9 @@
 var cacheName = 'Reddit TTS Generator';
 var filesToCache = [
-  '/RedditTTS/',
-  '/RedditTTS/index.html',
-  '/RedditTTS/css/style.css',
-  '/RedditTTS/js/reddittts.js', 
+  '/rtts/',
+  '/rtts/index.html',
+  '/rtts/css/style.css',
+  '/rtts/js/reddittts.js', 
 ];
 
 /* Start the service worker and cache all of the app's content */
