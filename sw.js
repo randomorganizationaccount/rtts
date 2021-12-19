@@ -3,9 +3,7 @@ var filesToCache = [
   '/RedditTTSGenerator/',
   '/RedditTTSGenerator/index.html',
   '/RedditTTSGenerator/css/style.css',
-  '/RedditTTSGenerator/js/reddittts.js',
-  '/RedditTTSGenerator/css/404.css',
-  '/RedditTTSGenerator/404.html'    
+  '/RedditTTSGenerator/js/reddittts.js', 
 ];
 
 /* Start the service worker and cache all of the app's content */
